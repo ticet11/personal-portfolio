@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&family=Heebo&display=swap');
+
+html {
+    font-family: 'Courier Prime', monospace;
+}
+
+h1 {
+    font-family: 'Heebo', sans-serif;
+    margin: 5px;
+}
+
+p {
+    margin: 5px;
+    margin-top: 10px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border: solid 2px #0f060d;
+}
+
+.btn-1 {
+    background: #96185b;
+    color: white;
+}
+
+.btn-2 {
+    background: #2f85da;
+    color: white;
+}
+
+.btn-3 {
+    background: #cc6ebe;
+    color: white;
+}
+
+.btn-4 {
+    background: #681749;
+    color: white;
+}
+
+.btn-5 {
+    background: #0f060d;
+    color: white;
+}
